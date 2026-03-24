@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ody {
+=======
+body {
+>>>>>>> Stashed changes
   font-family: Arial;
   text-align: center;
 }
@@ -15,12 +19,15 @@ ody {
   padding: 20px;
   border-radius: 10px;
 }
+<<<<<<< Updated upstream
 .card img {
   width: 100%;
   height: 200px;
   object-fit: cover;
   border-radius: 10px;
 }
+=======
+>>>>>>> Stashed changes
 .foto {
   width: 100%;
   height: 200px;
