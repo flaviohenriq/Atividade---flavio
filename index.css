@@ -1,4 +1,5 @@
 body {
+ody {
   font-family: Arial;
   text-align: center;
 }
@@ -13,6 +14,12 @@ body {
 .card {
   background-color: #f4f4f4;
   padding: 20px;
+  border-radius: 10px;
+}
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
   border-radius: 10px;
 }
 .foto {
